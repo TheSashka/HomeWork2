@@ -1,0 +1,16 @@
+private	1
+for	4
+float	5
+long	8
+public	14
+class	3
+new	3
+package	1
+static	3
+void	9
+byte	3
+double	5
+this	2
+int	17
+boolean	1
+return	1
